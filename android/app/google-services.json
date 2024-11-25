@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "864462847563",
+    "project_id": "againbloc",
+    "storage_bucket": "againbloc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864462847563:android:9de1a1b4b046abe740d7ce",
+        "android_client_info": {
+          "package_name": "com.example.againbloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnd3IXnhX-zLVBdU2DDBkiBdjRIGalloc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
